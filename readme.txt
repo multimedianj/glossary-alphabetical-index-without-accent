@@ -16,6 +16,6 @@ A plugin that provides you a shortcode for Glossary by Codeat to display alphabe
 1. Alternatively, you can download the plugin from [here](https://njohnson.pro/plugins/aiwa-glossary) and upload manually.
 1. Activate the plugin through the 'Plugins' screen in WordPress.
 
-## How it works
+== How it works ==
 
 Just add the shortcode [aiwa-list] wherever you want.
